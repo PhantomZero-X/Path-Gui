@@ -11,14 +11,7 @@ This template is designed for developers who want a **professional, modern, and 
 - Demo section for live previews
 - Markdown optimizations for clarity and aesthetics
 
----
-
-## 🧩 Features
-- ⚙️ **CI/CD Ready** – Integrate with GitHub Actions easily.  
-- 🧪 **Coverage & Tests** – Plug in your preferred test framework.  
-- 🪪 **License & Docs Badges** – Auto-generated shields.io badges.  
-- 🧱 **GitHub Pages Deploy** – Static site deploy-ready.  
-- 🧭 **Customizable Sections** – Simple markdown config.  
+---  
 
 ---
 
@@ -30,4 +23,9 @@ cd your-repo
 
 # Install dependencies
 python path-gui
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
