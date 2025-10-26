@@ -39,3 +39,6 @@ cd Path-Scanner-GUI
 
 # Jalankan aplikasi
 python path-gui.py
+
+
+<p align="center">Made with ⚡ by <b>yourusername</b></p> ```
