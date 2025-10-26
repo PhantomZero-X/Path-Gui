@@ -25,7 +25,7 @@ Didesain untuk **developer, pentester, dan sysadmin** yang membutuhkan hasil ana
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Path+Scanner+GUI+Screenshot" alt="App Screenshot" width="80%">
+  <img src="image.png" alt="App Screenshot" width="80%">
 </p>
 
 ---
