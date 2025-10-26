@@ -22,14 +22,12 @@ This template is designed for developers who want a **professional, modern, and 
 
 ---
 
-## 🏗️ Installation
+Installation
 ```bash
 # Clone this repo
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 
 # Install dependencies
-npm install
+python path-gui
 
-# Run locally
-npm start
