@@ -1,7 +1,4 @@
-# 🚀 Modern GitHub Project Template
-
-A clean, elegant, and customizable **GitHub repository template** with advanced badge customization and GitHub Pages integration.
-
+# Path-Scanner-GUI
 ---
 
 ## 🧠 Overview
