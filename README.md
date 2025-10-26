@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=github&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/platform-cross--platform-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/last--update-October%202025-orange?style=for-the-badge" alt="Last Update">
 </p>
 
