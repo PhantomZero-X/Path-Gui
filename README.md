@@ -14,7 +14,6 @@ This template is designed for developers who want a **professional, modern, and 
 ---  
 
 ## Screenshots
-
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
